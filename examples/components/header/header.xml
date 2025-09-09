@@ -1,6 +1,6 @@
 <component>
     <api>
-        <prop name="title" type="string" default="Screen name"></prop>
+        <prop name="title" type="string" default="My Screeen"></prop>
     </api>
  
     <styles>
